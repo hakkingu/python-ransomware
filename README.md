@@ -1,4 +1,4 @@
-<h1>Python Ransomware~~</h1>
+<h1>python ransomware~</h1>
 This is a simple ransomware made with python. 
 
 In the /files/ there are the encrypt code, and the decrypt code. 
